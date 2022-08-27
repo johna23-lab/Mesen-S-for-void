@@ -19,11 +19,11 @@ Linux: [![Build status](https://ci.appveyor.com/api/projects/status/arkaatgy94f2
 
 ### Linux Void
 
-The latest version is available from the [releases tab on GitHub]().  
+The latest version is available from the [releases tab on GitHub](https://github.com/johna23-lab/Mesen-S-for-void/releases/).  
 
 ### Windows / Ubuntu
 
-The latest version is available from the original site [releases tab on GitHub](https://github.com/johna23-lab/Mesen-S-for-void/releases).  
+The latest version is available from the original site [releases tab on GitHub](https://github.com/SourMesen/Mesen-S/releases).  
 
 ### Arch Linux
 
